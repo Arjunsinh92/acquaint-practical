@@ -4,7 +4,7 @@
 
 => We have implemented the functionality to the default WordPress theme "twentytwentyone".
 
-=> We have created the "Custom-ajax-function.php" file inside inc folder and added all the custom code in to the file and include this file to the function.php.
+=> We have created the "custom-ajax-function.php" file inside inc folder and added all the custom code in to the file and include this file to the function.php.
 
 => For the JS we have created "ajax-call.js" file to the assets/js folder.
 
